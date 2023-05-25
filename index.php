@@ -14,6 +14,7 @@ include_once('inc/top.php');
 	<div class="swiper-pagination"></div>
 	<div class="visu_txt">
 	    <p>우리가 물려받은 자연을<br/>우리 후손에게</p>
+        <h3>추가된 부분</h3>
 	</div>
 </figure>
 
